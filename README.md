@@ -12,6 +12,15 @@ The program creates two folders where the video frames and the processed frames 
 
 ![VideoProcesadoExample](https://user-images.githubusercontent.com/91811505/135795564-b11709f7-1064-4ccd-b5ab-654a4642fd02.gif)
 
+Using the stimulus coordinates provided given by table 1 give for gray a value of 76
+
+![image](https://user-images.githubusercontent.com/91811505/135797886-754d051f-f2c0-4cc6-afc9-d82b40cbe9e4.png)
+
+The same thing we use to process and binarize each pixel of a frame
+
+![Captura1](https://user-images.githubusercontent.com/91811505/135798508-b61bb835-1865-47b6-8377-6e806ec8a10f.PNG)
+
+
 ![3e7b19d4-f207-4a73-83c7-c3cfccec5afe](https://user-images.githubusercontent.com/91811505/135795703-83dfda36-e77f-4a89-945b-69372020a884.png)
 
 
