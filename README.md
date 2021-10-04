@@ -20,7 +20,7 @@ The same thing we use to process and binarize each pixel of a frame
 
 ![Captura1](https://user-images.githubusercontent.com/91811505/135798508-b61bb835-1865-47b6-8377-6e806ec8a10f.PNG)
 
-Brightness Calculation (%). The result is positioned in a row matrix called List and then plot 
+Brightness Calculation (%). The result is positioned in a row matrix called Lista and then plot 
 
 ![Anotación 2021-10-04 005318](https://user-images.githubusercontent.com/91811505/135800940-bd26aed1-226e-465d-95be-82151ad57280.png)
 
