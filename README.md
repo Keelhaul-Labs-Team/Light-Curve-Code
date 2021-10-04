@@ -4,6 +4,9 @@ Hello @everyone!. This code has been created to process each frame of a video, m
 
 "Currently, there is no conventional formula for brightness calculation, and the same image-processing tool may employ several different brightness measures. However, stimuli, equibright according to one measure, may differ more, than ten times according to another." [1]
 
+The program creates two folders where the video frames and the processed frames will be saved.
+
+![Anotación 2021-10-04 001218](https://user-images.githubusercontent.com/91811505/135797732-3b0ea227-2796-4c24-b108-fdb1a254c47d.png)
 
 ![0001-0250](https://user-images.githubusercontent.com/91811505/135795350-f07361e1-37f4-49cf-8348-0515b8caed09.gif)
 
