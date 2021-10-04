@@ -1,6 +1,7 @@
 # Light-Curve-Code
 
 Response to NASA’s 🚀: When Light Curves Throw Us Curve Ball
+
 By: Miguel Angel Esquivel Yanque
 
 
