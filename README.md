@@ -10,3 +10,6 @@ Hello @everyone!. This code has been created to process each frame of a video, m
 ![VideoProcesadoExample](https://user-images.githubusercontent.com/91811505/135795564-b11709f7-1064-4ccd-b5ab-654a4642fd02.gif)
 
 ![3e7b19d4-f207-4a73-83c7-c3cfccec5afe](https://user-images.githubusercontent.com/91811505/135795703-83dfda36-e77f-4a89-945b-69372020a884.png)
+
+
+[1] B.S.B.P.I.D. (2007). Brightness Calculation in Digital Image Processing. Society for Imaging Science and Technology. Published. https://doi.org/10.2352/ISSN.2169-4672.2007.1.0.10
