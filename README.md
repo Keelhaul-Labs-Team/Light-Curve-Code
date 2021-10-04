@@ -1,8 +1,8 @@
 # Light-Curve-Code
 
-Response to NASA’s 🚀: When Light Curves Throw Us Curve Ball
+Response to NASA’s: When Light Curves Throw Us Curve Ball
 
-By: Miguel Angel Esquivel Yanque 🚀
+🚀 By: Miguel Angel Esquivel Yanque 🚀
 
 
 Hello @everyone!. This code has been created to process each frame of a video, measure the percentage of brightness in each frame, save the data in a row matrix and then graph it for visualization.
