@@ -21,7 +21,7 @@ Using the stimulus coordinates provided given by "table 1." [1], we observe that
 
 ![image](https://user-images.githubusercontent.com/91811505/135797886-754d051f-f2c0-4cc6-afc9-d82b40cbe9e4.png)
 
-The same thing we use to process and binarize each pixel of a frame
+The value of grey(76) we use to process and binarize each pixel of a frame
 
 ![Captura1](https://user-images.githubusercontent.com/91811505/135798508-b61bb835-1865-47b6-8377-6e806ec8a10f.PNG)
 
