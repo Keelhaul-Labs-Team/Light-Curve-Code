@@ -17,7 +17,7 @@ The program creates two folders where the video frames and the processed frames 
 
 ![VideoProcesadoExample](https://user-images.githubusercontent.com/91811505/135795564-b11709f7-1064-4ccd-b5ab-654a4642fd02.gif)
 
-Using the stimulus coordinates provided given by "table 1." [1] give for gray a value of 76
+Using the stimulus coordinates provided given by "table 1." [1], we observe that for gray it is a value of 76
 
 ![image](https://user-images.githubusercontent.com/91811505/135797886-754d051f-f2c0-4cc6-afc9-d82b40cbe9e4.png)
 
